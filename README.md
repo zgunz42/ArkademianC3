@@ -17,6 +17,10 @@ berdasakan sumber: [Do you know what a REST API is?][1]
 3. Mudah di perbaiki jika ada salah pada hasil JSON
 4. Banyak tool yang membantu dalam membaca JSON di Browser
 
+## Soal 6
+
+![soal 6](https://screenshotscdn.firefoxusercontent.com/images/da0130f2-45ab-4ecd-a060-364784f750eb.png)
+
 [1]: https://www.sitepoint.com/developers-rest-api/
 [2]: https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 [3]: https://www.w3schools.com/whatis/whatis_json.asp
